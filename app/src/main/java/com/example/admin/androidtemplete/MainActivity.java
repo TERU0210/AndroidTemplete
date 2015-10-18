@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity{
 
         initLog();
 
-
         setContentView(R.layout.activity_main);
     }
 
@@ -71,7 +70,7 @@ public class MainActivity extends AppCompatActivity{
         LogUtils.configAllowLog = LOGOUT;
     }
 
-    /*
+    /**
     https://github.com/pedrovgs/Lynx
      */
     @DebugLog
