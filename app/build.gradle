@@ -28,6 +28,7 @@ dependencies {
     compile 'org.androidannotations:androidannotations-api:+'
     compile 'com.github.pedrovgs:lynx:+'
     compile 'com.apkfuns.logutils:library:+'
+    compile 'com.google.guava:guava:+'
 }
 
 buildscript {
